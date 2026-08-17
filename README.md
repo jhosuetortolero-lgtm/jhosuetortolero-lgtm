@@ -21,7 +21,7 @@ Sou Desenvolvedor Full Stack Web com foco em **Node.js, JavaScript e TypeScript*
 
 Tenho interesse em desenvolvimento de aplicações web, criação de APIs REST, bancos de dados, automação de processos com **n8n** e integração de **Inteligência Artificial** em produtos reais.
 
-Atualmente, busco evoluir continuamente em engenharia de software, arquitetura de sistemas, escalabilidade e construção de soluções eficientes.
+Atualmente, busco evoluir continuamente em Engenharia de Software, Arquitetura de Software, escalabilidade e construção de soluções eficientes.
 
 ## Stack principal
 
