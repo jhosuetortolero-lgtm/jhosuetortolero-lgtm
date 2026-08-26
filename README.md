@@ -17,11 +17,15 @@
 
 ## Sobre mim
 
-Sou Desenvolvedor Full Stack Web com foco em **Node.js, JavaScript, TypeScript e Python**.
+**Desenvolvedor Full Stack Web** que transforma ideias em produtos SaaS completos — do login ao pagamento recorrente, do banco de dados ao dashboard.
 
-Tenho interesse em desenvolvimento de aplicações web, criação de APIs REST, bancos de dados, automação de processos com **n8n** e integração de **Inteligência Artificial** em produtos reais.
+Construo aplicações com **TypeScript, Node.js, React/Next.js e Python**, cobrindo o ciclo real de um produto: autenticação, APIs REST, modelagem de dados, integração de pagamentos e painéis de gestão. Entre meus projetos estão SaaS de agendamento para clínicas e barbearias, e-commerce full stack e um totem de autoatendimento.
 
-Atualmente, busco evoluir continuamente em Engenharia de Software, Arquitetura de Software, escalabilidade e construção de soluções eficientes.
+O que me diferencia é unir desenvolvimento com **automação inteligente**: integro **IA generativa, LLMs e agentes** em produtos reais e automatizo processos de negócio com **n8n** — entregando software que reduz trabalho manual, não apenas telas bonitas.
+
+Atualmente aprofundo **Arquitetura de Software, escalabilidade e cibersegurança**, com o objetivo de construir sistemas seguros, sustentáveis e prontos para crescer.
+
+📫 **Aberto a novas oportunidades e colaborações.**
 
 ## Stack principal
 
@@ -61,13 +65,13 @@ Atualmente, busco evoluir continuamente em Engenharia de Software, Arquitetura d
 
 ## Áreas de interesse
 
-- Desenvolvimento Full Stack
-- APIs REST e integrações
-- Arquitetura e engenharia de software
-- Automação de processos com n8n
-- Inteligência Artificial Generativa, LLMs e agentes de IA
-- Cibersegurança e hacking ético (pentest e análise de vulnerabilidades)
-- Construção de produtos web escaláveis
+- 🚀 **Desenvolvimento Full Stack** — aplicações web completas, do front-end ao deploy
+- 🔌 **APIs REST e integrações** — serviços bem estruturados, documentados e seguros
+- 🏗️ **Arquitetura e engenharia de software** — código escalável, testável e de fácil manutenção
+- 🤖 **IA generativa, LLMs e agentes** — atendimento automatizado e IA aplicada ao negócio
+- ⚙️ **Automação de processos com n8n** — fluxos que eliminam tarefas repetitivas e conectam sistemas
+- 🔐 **Cibersegurança e hacking ético** — pentest, análise de vulnerabilidades e boas práticas OWASP
+- 📈 **Produtos web escaláveis** — performance, multi-tenant e cobrança recorrente
 
 ## Estatísticas GitHub
 
