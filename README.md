@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=210&section=header&text=Jhosue%20Tortolero&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20%C2%B7%20IA%20%26%20Automa%C3%A7%C3%A3o%20%C2%B7%20Ciberseguran%C3%A7a&descAlignY=53&descSize=18" alt="Jhosue Tortolero" />
+<a href="https://www.linkedin.com/in/jhosue-tortolero-379756133/">
+  <img width="100%" src="https://raw.githubusercontent.com/jhosuetortolero-lgtm/jhosuetortolero-lgtm/main/assets/banner.svg" alt="Jhosue Tortolero - Desenvolvedor Full Stack, IA e Ciberseguranca" />
+</a>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=2563EB&center=true&vCenter=true&width=700&height=45&lines=Desenvolvedor+Full+Stack+Web;SaaS+completo%3A+do+login+ao+pagamento+recorrente;IA+generativa%2C+LLMs+e+automa%C3%A7%C3%A3o+com+n8n;Ciberseguran%C3%A7a+e+hacking+%C3%A9tico" alt="Desenvolvedor Full Stack Web" />
