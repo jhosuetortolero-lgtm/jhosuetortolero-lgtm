@@ -17,7 +17,7 @@
 
 ## Sobre mim
 
-Sou Desenvolvedor Full Stack Web com foco em **Node.js, JavaScript e TypeScript**.
+Sou Desenvolvedor Full Stack Web com foco em **Node.js, JavaScript, TypeScript e Python**.
 
 Tenho interesse em desenvolvimento de aplicações web, criação de APIs REST, bancos de dados, automação de processos com **n8n** e integração de **Inteligência Artificial** em produtos reais.
 
@@ -37,6 +37,22 @@ Atualmente, busco evoluir continuamente em Engenharia de Software, Arquitetura d
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,prisma,postgres,mysql,mongodb" />
 </p>
 
+### Cibersegurança e hacking ético
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Nmap-0E2A47?style=for-the-badge&logo=linux&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+</p>
+
 ### Ferramentas e automação
 
 <p>
@@ -50,6 +66,7 @@ Atualmente, busco evoluir continuamente em Engenharia de Software, Arquitetura d
 - Arquitetura e engenharia de software
 - Automação de processos com n8n
 - Inteligência Artificial Generativa, LLMs e agentes de IA
+- Cibersegurança e hacking ético (pentest e análise de vulnerabilidades)
 - Construção de produtos web escaláveis
 
 ## Estatísticas GitHub
