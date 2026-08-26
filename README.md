@@ -34,7 +34,7 @@ Atualmente, busco evoluir continuamente em Engenharia de Software, Arquitetura d
 ### Backend e banco de dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,prisma,postgres,mysql,mongodb" />
 </p>
 
 ### Ferramentas e automação
