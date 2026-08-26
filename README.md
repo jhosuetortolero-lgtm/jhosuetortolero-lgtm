@@ -1,25 +1,24 @@
-<h1 align="center">Olá, eu sou Jhosue Tortolero</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=210&section=header&text=Jhosue%20Tortolero&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20%C2%B7%20IA%20%26%20Automa%C3%A7%C3%A3o%20%C2%B7%20Ciberseguran%C3%A7a&descAlignY=53&descSize=18" alt="Jhosue Tortolero" />
 
 <p align="center">
-  Desenvolvedor Full Stack Web focado em construir aplicações, APIs, automações e soluções com IA.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=2563EB&center=true&vCenter=true&width=700&height=45&lines=Desenvolvedor+Full+Stack+Web;SaaS+completo%3A+do+login+ao+pagamento+recorrente;IA+generativa%2C+LLMs+e+automa%C3%A7%C3%A3o+com+n8n;Ciberseguran%C3%A7a+e+hacking+%C3%A9tico" alt="Desenvolvedor Full Stack Web" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/jhosuetortolero-lgtm">
-    <img src="https://img.shields.io/badge/GitHub-jhosuetortolero--lgtm-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/jhosue-tortolero-379756133/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jhosue%20Tortolero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/jhosuetortolero-lgtm?tab=repositories">
+    <img src="https://img.shields.io/badge/Reposit%C3%B3rios-Explorar-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=jhosuetortolero-lgtm&style=for-the-badge&color=2563EB&label=VISITAS" alt="Visitas no perfil" />
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Jhosue%20Tortolero&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 ## Sobre mim
 
 **Desenvolvedor Full Stack Web** que transforma ideias em produtos SaaS completos — do login ao pagamento recorrente, do banco de dados ao dashboard.
 
-Construo aplicações com **TypeScript, Node.js, React/Next.js e Python**, cobrindo o ciclo real de um produto: autenticação, APIs REST, modelagem de dados, integração de pagamentos e painéis de gestão. Entre meus projetos estão SaaS de agendamento para clínicas e barbearias, e-commerce full stack e um totem de autoatendimento.
+Construo aplicações com **TypeScript, Node.js, React/Next.js e Python**, cobrindo o ciclo real de um produto: autenticação, APIs REST, modelagem de dados, integração de pagamentos e painéis de gestão. Entre meus trabalhos estão o **Hub RMC Engenharia** — plataforma de gestão financeira e de obras desenvolvida para a **RMC Engenharia** — além de SaaS de agendamento para clínicas e barbearias, e-commerce full stack e um totem de autoatendimento.
 
 O que me diferencia é unir desenvolvimento com **automação inteligente**: integro **IA generativa, LLMs e agentes** em produtos reais e automatizo processos de negócio com **n8n** — entregando software que reduz trabalho manual, não apenas telas bonitas.
 
