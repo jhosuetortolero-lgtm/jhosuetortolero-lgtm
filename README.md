@@ -26,6 +26,17 @@ O que me diferencia é unir desenvolvimento com **automação inteligente**: int
 
 Atualmente aprofundo **Arquitetura de Software, escalabilidade e cibersegurança**, com o objetivo de construir sistemas seguros, sustentáveis e prontos para crescer.
 
+### Projetos públicos
+
+- 🩺 **[Doutor Agenda](https://github.com/jhosuetortolero-lgtm/Saas-Doutor-agenda)** — SaaS de gestão para clínicas: médicos, pacientes, agendamentos, dashboard e assinaturas. `Next.js 15` `Drizzle` `Better Auth` `Stripe` · [ver demo](https://jhosuetortolero-lgtm.github.io/Saas-Doutor-agenda/)
+- 💈 **[SaaS para Barbearia](https://github.com/jhosuetortolero-lgtm/Saas-para-Barbearia)** — plataforma full stack de agendamento para barbearias, com IA aplicada ao atendimento. `Next.js` `Prisma` `Stripe` `IA` · [ver demo](https://jhosuetortolero-lgtm.github.io/Saas-para-Barbearia/)
+- 🛍️ **[BeWear — E-commerce](https://github.com/jhosuetortolero-lgtm/Saas-ecomerce-bewear)** — e-commerce de moda full stack, do catálogo ao checkout com pagamento online. `Next.js 15` `Drizzle` `Better Auth` `Stripe` · [ver demo](https://jhosuetortolero-lgtm.github.io/Saas-ecomerce-bewear/)
+- 🍔 **[Self Checkout Totem](https://github.com/jhosuetortolero-lgtm/self-checkout-toten-clone-mcdonalds)** — totem de autoatendimento estilo McDonald's, do pedido ao pagamento. `Next.js 15` `Prisma` `PostgreSQL` `Stripe` · [ver demo](https://jhosuetortolero-lgtm.github.io/self-checkout-toten-clone-mcdonalds/)
+- 🧪 **[Jhosue Labs — Portfólio](https://github.com/jhosuetortolero-lgtm/Jhosue-Labs-Portf-lio)** — portfólio single page com três idiomas, tema claro/escuro, terminal interativo e paleta de comandos. `TypeScript`
+- 🎮 **[Clone do site GTA VI](https://github.com/jhosuetortolero-lgtm/curso-clone-site-gta-vi-dev-em-dobro)** — recriação do site oficial com foco em animações e CSS avançado. `CSS`
+
+➕ Também mantenho landing pages e projetos de estudo — [veja todos os repositórios](https://github.com/jhosuetortolero-lgtm?tab=repositories).
+
 📫 **Aberto a novas oportunidades e colaborações.**
 
 ## Stack principal
